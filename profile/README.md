@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to FEAST! We like BREAD the most.
+
 <!--
 
 **Here are some ideas to get you started:**
