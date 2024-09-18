@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to FEAST! We like BREAD the most.
+Welcome to FEAST! The Flexible and Expandable Automation System Technology ecosystem is meant to be a collection of open-source hardware and software designed to help anyone rapidly create SCADA systems based on the BREAD framework.
 
 <!--
 
