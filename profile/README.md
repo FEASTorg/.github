@@ -1,14 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-Welcome to FEAST! The Flexible and Expandable Automation System Technology ecosystem is meant to be a collection of open-source hardware and software designed to help anyone rapidly create SCADA systems based on the BREAD framework.
+Welcome to the FEAST GitHub Organization! FEAST stands for Flexible and Expandable Automation System Technology is meant to be an ecosystem of open-source hardware, software, tools, instructions and more all intended to help anyone rapidly create modular devices based on the [BREAD](https://github.com/FEASTorg/BREAD) framework. This could be anything from standalone instruments to complete Supervisor Control and Data Aquisition (SCADA) systems.
 
-<!--
+To learn more on how to get started using this ecosystem visit the main FEAST repository: [github.com/FEASTorg/feast](https://github.com/FEASTorg/feast).
 
-**Here are some ideas to get you started:**
+If you're interested in getting invovled in the project please start by reviewing the community guidelines:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. [Code of Conduct](./CODE_OF_CONDUCT.md)
+2. [Contributing](./CONTRIBUTING.md)
