@@ -8,3 +8,6 @@ If you're interested in getting invovled in the project please start by reviewin
 
 1. [Code of Conduct](./CODE_OF_CONDUCT.md)
 2. [Contributing](./CONTRIBUTING.md)
+
+> ⚠️ **Notice:** FEAST is an active research-driven project. Many repositories are still under development, unpublished, or partially documented as they relate to ongoing scholarly work.  
+> Everything _will_ be fully released as open source in due course. We appreciate your patience as we balance transparency, accessibility, and academic integrity.
