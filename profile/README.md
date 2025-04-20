@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Welcome to the FEAST GitHub Organization! FEAST stands for Flexible and Expandable Automation System Technology is meant to be an ecosystem of open-source hardware, software, tools, instructions and more all intended to help anyone rapidly create modular devices based on the [BREAD](https://github.com/FEASTorg/BREAD) framework. This could be anything from standalone instruments to complete Supervisor Control and Data Aquisition (SCADA) systems.
+Welcome to the FEAST GitHub Organization! FEAST stands for Flexible and Expandable Automation System Technology is meant to be an ecosystem of open-source hardware, software, tools, instructions and more all intended to help anyone rapidly create modular devices. This could be anything from standalone instruments to complete Supervisor Control and Data Aquisition (SCADA) systems.
 
-To learn more on how to get started using this ecosystem visit the main FEAST repository: [github.com/FEASTorg/feast](https://github.com/FEASTorg/feast).
+To learn more about the FEAST ecosystem and how you can get started visit the main repository: [github.com/FEASTorg/feast](https://github.com/FEASTorg/feast).
 
 If you're interested in getting invovled in the project please start by reviewing the community guidelines:
 
