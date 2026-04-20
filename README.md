@@ -1,1 +1,1 @@
-# FEASTorg/.github
+# feastorg/.github
